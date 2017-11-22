@@ -1,0 +1,6 @@
+2017-11-22 16:47:45,775 - kafkahandler_msgsend.py:55 - Send_output - INFO - KAFKA---kafka-MsgSendHandler:message offset=89,value={"MsgSend_company":"0","MsgSend_mobile":"17826855137","MsgSend_content":"【臻e盾】捷信报警联网系统，验证码：7811, 有效期3分钟,请勿泄漏。"}
+2017-11-22 16:47:45,780 - msgsendpool.py:80 - Send_output - INFO - message is pop from MsgList:
+2017-11-22 16:47:45,880 - msgsendpool.py:103 - Send_output - INFO - SEND---return result：status_code=200,text={"returnstatus":"Success","message":"操作成功","remainpoint":"102608","taskID":"1711224056414970","successCounts":"1"}
+2017-11-22 16:47:45,973 - msgsendpool.py:59 - Send_output - INFO - Insert the data into database is finishied
+2017-11-22 16:48:01,388 - kafkahandler_msgsend.py:55 - Send_output - INFO - KAFKA---kafka-MsgSendHandler:message offset=90,value=kk
+2017-11-22 16:49:49,153 - kafkahandler_msgsend.py:55 - Send_output - INFO - KAFKA---kafka-MsgSendHandler:message offset=91,value=l

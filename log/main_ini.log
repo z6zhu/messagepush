@@ -1,0 +1,20 @@
+2017-11-22 16:46:28,112 - jxmsgsend.py:30 - Send_ini - INFO - msgpush service start...
+2017-11-22 16:46:28,112 - msgsendpool.py:63 - Send_ini - INFO - The class CMsgSendWoker is running
+2017-11-22 16:46:28,114 - kafkahandler_msgsend.py:24 - Send_ini - INFO - THE class MsgSendHandler is running
+2017-11-22 16:46:28,132 - jxmsgsend.py:37 - Send_ini - INFO - msgpush service start...ok
+
+2017-11-22 16:46:38,380 - jxmsgsend.py:30 - Send_ini - INFO - msgpush service start...
+2017-11-22 16:46:38,380 - msgsendpool.py:63 - Send_ini - INFO - The class CMsgSendWoker is running
+2017-11-22 16:46:38,380 - kafkahandler_msgsend.py:24 - Send_ini - INFO - THE class MsgSendHandler is running
+2017-11-22 16:46:38,398 - jxmsgsend.py:37 - Send_ini - INFO - msgpush service start...ok
+
+2017-11-22 16:47:26,750 - jxmsgsend.py:30 - Send_ini - INFO - msgpush service start...
+2017-11-22 16:47:26,750 - msgsendpool.py:63 - Send_ini - INFO - The class CMsgSendWoker is running
+2017-11-22 16:47:26,750 - kafkahandler_msgsend.py:24 - Send_ini - INFO - THE class MsgSendHandler is running
+2017-11-22 16:47:26,775 - jxmsgsend.py:37 - Send_ini - INFO - msgpush service start...ok
+
+2017-11-22 16:49:18,131 - jxmsgsend.py:30 - Send_ini - INFO - msgpush service start...
+2017-11-22 16:49:18,131 - msgsendpool.py:63 - Send_ini - INFO - The class CMsgSendWoker is running
+2017-11-22 16:49:18,131 - kafkahandler_msgsend.py:24 - Send_ini - INFO - THE class MsgSendHandler is running
+2017-11-22 16:49:18,154 - jxmsgsend.py:37 - Send_ini - INFO - msgpush service start...ok
+
